@@ -1,0 +1,26 @@
+{
+    "products" : [
+        {
+          "name": "농구공",
+          "price": 100000,
+          "seller": "조던",
+          "imageUrl": "images/products/basketball1.jpeg"
+        },
+        {
+          "name": "축구공",
+          "price": 50000,
+          "seller": "메시",
+          "imageUrl": "images/products/soccerball1.jpg"
+        },
+        {
+          "name": "키보드",
+          "price": 10000,
+          "seller": "그랩",
+          "imageUrl": "images/products/keyboard1.jpg"
+        }
+    ]
+}
+
+https://d4899e50-9858-4ffe-8ea1-d480a59addd9.mock.pstmn.io
+
+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
